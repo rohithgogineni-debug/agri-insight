@@ -168,7 +168,7 @@ Agriculture data experimentation & research
 🧑‍💻 Author
 
 Ravindra
-GitHub: https://github.com/ravinda-dot
+GitHub: https://github.com/ravinda-gogineni
 
 📌 Future Enhancements
 
